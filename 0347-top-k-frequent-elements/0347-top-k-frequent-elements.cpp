@@ -1,27 +1,45 @@
-class Solution {
+class myComp {
 public:
-    static bool Descending(pair<int, int>& a, pair<int, int>& b){
-        return a.second > b.second;
-    }
-
-    vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> mpp;
-        vector<int> ans;
-
-        // Count frequencies
-        for(int i = 0; i < nums.size(); i++){
-            mpp[nums[i]]++;
+    bool operator()(pair<int, int> a, pair<int, int> b)
+    {
+        if (a.second > b.second) {
+            return true;
+        }
+        else if (a.second == b.second
+                 && a.first < b.first) {
+            return true;
         }
 
-        // Transfer map to vector of pairs
-        vector<pair<int, int>> freqVec(mpp.begin(), mpp.end());
+        return false;
+    }
+};
 
-        // Sort by frequency descending
-        sort(freqVec.begin(), freqVec.end(), Descending);
 
-        // Get top K frequent elements
-        for(int i = 0; i < k; i++){
-            ans.push_back(freqVec[i].first);
+
+class Solution {
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        map<int, int> mpp;
+        vector<int> ans;
+
+        for(int i : nums){
+            mpp[i]++;
+        }
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>, myComp> eh;
+        int count = 0;
+        for(auto [x, y] : mpp){
+            eh.push({x,y});
+            if(count>=k){   
+                eh.pop();
+            }
+            count++;
+        }
+
+        while(!eh.empty()){
+            auto [x,y] = eh.top();
+            ans.push_back(x);
+            eh.pop();
         }
 
         return ans;
