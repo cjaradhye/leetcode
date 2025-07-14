@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cjaradhye/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cjaradhye/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -60,6 +62,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -68,5 +71,10 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
