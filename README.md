@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -62,6 +63,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
