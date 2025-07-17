@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cjaradhye/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
