@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cjaradhye/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -35,6 +36,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
