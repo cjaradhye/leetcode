@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cjaradhye/leetcode/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
@@ -100,5 +101,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cjaradhye/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/cjaradhye/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
