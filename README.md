@@ -67,6 +67,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/cjaradhye/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/cjaradhye/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
