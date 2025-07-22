@@ -103,4 +103,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/cjaradhye/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/cjaradhye/leetcode/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/cjaradhye/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
