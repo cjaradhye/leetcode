@@ -7,6 +7,7 @@
 | [0036-valid-sudoku](https://github.com/cjaradhye/leetcode/tree/master/0036-valid-sudoku) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cjaradhye/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0907-koko-eating-bananas](https://github.com/cjaradhye/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0907-koko-eating-bananas](https://github.com/cjaradhye/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Data Stream
 |  |
 | ------- |
