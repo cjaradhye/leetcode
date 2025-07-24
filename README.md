@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/cjaradhye/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/cjaradhye/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/cjaradhye/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/cjaradhye/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -57,16 +59,19 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/cjaradhye/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cjaradhye/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cjaradhye/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cjaradhye/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cjaradhye/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cjaradhye/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -120,4 +125,5 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cjaradhye/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cjaradhye/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
